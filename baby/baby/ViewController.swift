@@ -22,6 +22,8 @@ class ViewController: UIViewController {
     }
 
     @IBAction func acButtonTapped(_ sender: Any) {
+        let currentDate = Date()
+        acLabel.text = currentDate.description
     }
 
 }
