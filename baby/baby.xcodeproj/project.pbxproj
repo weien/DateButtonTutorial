@@ -39,6 +39,7 @@
 			isa = PBXGroup;
 			children = (
 				32F678F71ED3430D0030928B /* baby */,
+				32F6790A1ED343250030928B /* New Group */,
 				32F678F61ED3430D0030928B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -57,10 +58,18 @@
 				32F678F81ED3430D0030928B /* AppDelegate.swift */,
 				32F678FA1ED3430D0030928B /* ViewController.swift */,
 				32F678FC1ED3430D0030928B /* Main.storyboard */,
+			);
+			path = baby;
+			sourceTree = "<group>";
+		};
+		32F6790A1ED343250030928B /* New Group */ = {
+			isa = PBXGroup;
+			children = (
 				32F678FF1ED3430D0030928B /* Assets.xcassets */,
 				32F679011ED3430D0030928B /* LaunchScreen.storyboard */,
 				32F679041ED3430D0030928B /* Info.plist */,
 			);
+			name = "New Group";
 			path = baby;
 			sourceTree = "<group>";
 		};
