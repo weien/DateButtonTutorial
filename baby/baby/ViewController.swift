@@ -22,6 +22,5 @@ class ViewController: UIViewController {
         let currentDate = Date()
         acLabel.text = currentDate.description
     }
-
 }
 
